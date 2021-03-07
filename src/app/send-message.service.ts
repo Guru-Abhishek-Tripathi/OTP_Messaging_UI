@@ -8,15 +8,8 @@ import { Print, Response } from './response.model';
 export class SendMessageService {
  
   constructor(private http:HttpClient) { }
-  responseData:Response[]=[];
-  data:Print[] = [];
   readonly posturl = "https://sendingsmsapi.herokuapp.com/sms/send";
   readonly geturl = "https://sendingsmsapi.herokuapp.com/sms/smslist";
-  response_status:string = '';
-  details:string[] = [];
-  name:string='';
-  otp:string='';
-  index:number=0;
   sendmsg(sendData:Send)
   {
     return this.http.post(this.posturl,sendData);

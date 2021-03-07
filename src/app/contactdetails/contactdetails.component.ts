@@ -17,8 +17,7 @@ export class ContactdetailsComponent implements OnInit {
   bodystr:string='';
   to:string='';
   otp:number=0;
-  response_status:string = '';
-  rr:Getstatus = {data:''};
+  response_status:Getstatus = {data:''};
   sendData:Send = {to:'',message:''};
   listOfContacts:Contact[]=[{Name: 'Abhishek Tiwari' , Number:'+917897916293'},{Name: 'Babita Tiwari' , Number:'+919935404653'},{Name: 'Rashi Srivastava' , Number:'+916306964491'},{Name: 'Kisan Network' , Number:'+919810153260'}];
   
@@ -47,9 +46,9 @@ export class ContactdetailsComponent implements OnInit {
     this.sendData.to = this.to;
     this.sendData.message = this.bodystr;
     this.service.sendmsg(this.sendData).subscribe(res=>{
-      this.rr = res as Getstatus;
-      console.log("This is my res: " + this.rr.data);
-      if(this.rr.data == 'queued' || this.rr.data == 'sent')
+      this.response_status = res as Getstatus;
+      console.log("This is my res: " + this.response_status.data);
+      if(this.response_status.data == 'queued' || this.response_status.data == 'sent')
       {
         this.flag2 = 1;
       }

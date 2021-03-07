@@ -28,10 +28,8 @@ export class ListofmessagesComponent implements OnInit {
         this.details = m.message.split(" ",15);
         this.name = this.details[8] + ' ' + this.details[9];
         this.otp = this.details[14];
-        console.log(this.name+"  "+this.otp +"  "+m.date);
         var object = {name:this.name,otp:this.otp,date:m.date}
         this.data.push(object);
-        console.log(this.name + this.otp);
     });
     });
     
