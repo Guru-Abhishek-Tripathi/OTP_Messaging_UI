@@ -40,6 +40,10 @@ export class ContactdetailsComponent implements OnInit {
 
   sendSMS()
   {
+    let regexpNumber: RegExp = /(^|\D)\d{6}($|\D)/;
+    if(this.bodystr=='' || !regexpNumber.test(this.bodystr)){
+      window.alert("Message doesn't contain 6 digit OTP");
+    }else{
     this.sendData.to = this.to;
     this.sendData.message = this.bodystr;
     this.service.sendmsg(this.sendData).subscribe(res=>{
@@ -57,5 +61,6 @@ export class ContactdetailsComponent implements OnInit {
     err=>{
       console.log(err);
     });
+  }
   }
 }

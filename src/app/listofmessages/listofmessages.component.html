@@ -15,7 +15,7 @@
                 <tbody>
                     <tr *ngFor="let item of data">
                         <th style="text-align: justify;">{{item.name}}</th>
-                        <th>{{item.date | date}}</th>
+                        <th>{{item.date | date:'medium'}}</th>
                         <th>{{item.otp}}</th>
                     </tr>
                 </tbody>
