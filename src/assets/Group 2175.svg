@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="780" height="224" viewBox="0 0 780 224">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        fill: #2b2716;
+        letter-spacing: 0.05em;
+      }
+
+      .cls-1 {
+        font-size: 28px;
+        font-family: ProximaNova-Regular, Proxima Nova;
+      }
+
+      .cls-2 {
+        font-size: 50px;
+        font-family: Oxygen-Bold, Oxygen;
+        font-weight: 700;
+      }
+    </style>
+  </defs>
+  <g id="Group_2175" data-name="Group 2175" transform="translate(-1048.011 -5041.788)">
+    <text id="Generate_extremely_detailed_reports_for_your_inventory_sales_and_services._Filter_your_reports_by_date-range_and_category_to_see_what_s_making_you_the_most_money." data-name="Generate extremely detailed reports for your inventory, sales and services. Filter your reports by date-range and category to see what&apos;s making you the most money." class="cls-1" transform="translate(1048.011 5139.788)"><tspan x="0" y="26">Generate extremely detailed reports for your inventory, </tspan><tspan x="0" y="58">sales and services. Filter your reports by date-range and </tspan><tspan x="0" y="90">category to see what&apos;s making you the most money.</tspan></text>
+    <text id="Financial_Reports" data-name="Financial Reports" class="cls-2" transform="translate(1048.011 5103.788)"><tspan x="0" y="0">Financial Reports</tspan></text>
+  </g>
+</svg>

@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="780" height="227" viewBox="0 0 780 227">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        fill: #2b2716;
+        letter-spacing: 0.05em;
+      }
+
+      .cls-1 {
+        font-size: 28px;
+        font-family: ProximaNova-Regular, Proxima Nova;
+      }
+
+      .cls-2 {
+        font-size: 50px;
+        font-family: Oxygen-Bold, Oxygen;
+        font-weight: 700;
+      }
+    </style>
+  </defs>
+  <g id="Group_2171" data-name="Group 2171" transform="translate(-1048 -3000.784)">
+    <text id="Organize_inventory_items_using_custom_attributes_such_as_size_color_and_location._View_how_many_you_have_globally_or_at_each_location." data-name="Organize inventory items using custom attributes such as size, color, and location. View how many you have globally or at each location." class="cls-1" transform="translate(1048 3098.784)"><tspan x="0" y="26">Organize inventory items using custom attributes such as </tspan><tspan x="0" y="58">size, color, and location. View how many you have </tspan><tspan x="0" y="90">globally or at each location.</tspan></text>
+    <text id="Item_Variations" data-name="Item Variations" class="cls-2" transform="translate(1048 3062.784)"><tspan x="0" y="0">Item Variations</tspan></text>
+  </g>
+</svg>

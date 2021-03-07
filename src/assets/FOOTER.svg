@@ -1,0 +1,27 @@
+<svg id="FOOTER" xmlns="http://www.w3.org/2000/svg" width="1920" height="80" viewBox="0 0 1920 80">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #001164;
+      }
+
+      .cls-2, .cls-4 {
+        fill: #fff;
+        font-size: 18px;
+        font-family: ProximaNova-Regular, Proxima Nova;
+      }
+
+      .cls-3 {
+        font-family: ProximaNova-Bold, Proxima Nova;
+        font-weight: 700;
+      }
+
+      .cls-4 {
+        letter-spacing: 0.1em;
+      }
+    </style>
+  </defs>
+  <rect id="BG" class="cls-1" width="1920" height="80"/>
+  <text id="_2020_Doctors._All_Rights_Reserved" data-name="© 2020 Doctors. All Rights Reserved" class="cls-2" transform="translate(33 44)"><tspan x="0" y="0">© 2020 </tspan><tspan class="cls-3" y="0">Doctors. </tspan><tspan y="0">All Rights Reserved</tspan></text>
+  <text id="Legal_Issues_Careers_Reviews_About_Blog_Updates" data-name="Legal Issues          Careers            Reviews            About            Blog            Updates" class="cls-4" transform="translate(1888 44)"><tspan x="-898.181" y="0" xml:space="preserve">LEGAL ISSUES          CAREERS            REVIEWS            ABOUT            BLOG            UPDATES</tspan></text>
+</svg>

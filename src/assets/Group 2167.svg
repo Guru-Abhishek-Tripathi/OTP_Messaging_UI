@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1920" height="350.489" viewBox="0 0 1920 350.489">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #001164;
+      }
+
+      .cls-2 {
+        fill: #25316d;
+      }
+
+      .cls-3 {
+        fill: #fff;
+        font-size: 42px;
+        font-family: Oxygen-Bold, Oxygen;
+        font-weight: 700;
+      }
+
+      .cls-4 {
+        font-size: 32px;
+      }
+
+      .cls-5 {
+        font-size: 53px;
+      }
+    </style>
+  </defs>
+  <g id="Group_2167" data-name="Group 2167" transform="translate(0 -6005.837)">
+    <g id="Group_2166" data-name="Group 2166">
+      <path id="Path_1084" data-name="Path 1084" class="cls-1" d="M0,0H1920V213S1445.055,324.326,965.055,324.326,0,213,0,213Z" transform="translate(0 6032)"/>
+      <path id="Path_1085" data-name="Path 1085" class="cls-2" d="M0,0H1920V213S1445.055,324.326,965.055,324.326,0,213,0,213Z" transform="translate(0 6005.837)"/>
+    </g>
+    <text id="PRICING_PLAN_What_s_our_monthly_pricing_subscription_Monthly_Plan_Annual_Plan" data-name="PRICING PLAN
+
+What’s our monthly pricing subscription
+
+Monthly Plan / Annual Plan" class="cls-3" transform="translate(960 6125)"><tspan x="-135.24" y="0">PRICING PLAN</tspan><tspan class="cls-4"><tspan x="0" y="32"></tspan></tspan><tspan class="cls-5"><tspan x="-475.516" y="64">What’s our monthly pricing subscription</tspan></tspan><tspan class="cls-4"><tspan x="0" y="96"></tspan><tspan x="-197.856" y="128">Monthly Plan / Annual Plan</tspan></tspan></text>
+  </g>
+</svg>

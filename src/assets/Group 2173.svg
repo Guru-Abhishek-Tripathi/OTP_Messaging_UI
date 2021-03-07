@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="780" height="217" viewBox="0 0 780 217">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        fill: #2b2716;
+        letter-spacing: 0.05em;
+      }
+
+      .cls-1 {
+        font-size: 28px;
+        font-family: ProximaNova-Regular, Proxima Nova;
+      }
+
+      .cls-2 {
+        font-size: 50px;
+        font-family: Oxygen-Bold, Oxygen;
+        font-weight: 700;
+      }
+    </style>
+  </defs>
+  <g id="Group_2173" data-name="Group 2173" transform="translate(-1048 -4015.271)">
+    <text id="Create_beautiful_professional_invoices_estimates_in_just_a_few_seconds_and_then_instantly_email_them_as_PDF_s_directly_to_your_customers_or_prospects." data-name="Create beautiful, professional invoices &amp; estimates in just a few seconds and then instantly email them as PDF&apos;s directly to your customers or prospects." class="cls-1" transform="translate(1048 4113.271)"><tspan x="0" y="26">Create beautiful, professional invoices &amp; estimates in just </tspan><tspan x="0" y="58">a few seconds and then instantly email them as PDF&apos;s </tspan><tspan x="0" y="90">directly to your customers or prospects.</tspan></text>
+    <text id="Invoice_Estimates" data-name="Invoice &amp; Estimates" class="cls-2" transform="translate(1048 4077.271)"><tspan x="0" y="0">Invoice &amp; Estimates</tspan></text>
+  </g>
+</svg>

@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="488" height="708" viewBox="0 0 488 708">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #2b2716;
+        font-size: 28px;
+        font-family: ProximaNova-Regular, Proxima Nova;
+      }
+
+      .cls-2, .cls-3 {
+        fill: #001164;
+        font-family: ProximaNova-Bold, Proxima Nova;
+        font-weight: 700;
+      }
+
+      .cls-2 {
+        font-size: 46px;
+      }
+
+      .cls-3 {
+        font-size: 74px;
+      }
+    </style>
+  </defs>
+  <g id="Group_2163" data-name="Group 2163" transform="translate(-729 -6484)">
+    <text id="Per_month_Subscription_yearly" data-name="Per month &amp; Subscription yearly" class="cls-1" transform="translate(973 6824)"><tspan x="-195.762" y="0">Per month &amp; Subscription yearly</tspan></text>
+    <text id="Business_Account" data-name="Business Account" class="cls-2" transform="translate(973 6526)"><tspan x="-185.518" y="0">Business Account</tspan></text>
+    <text id="_9.87" data-name="$9.87" class="cls-3" transform="translate(973 6763)"><tspan x="-96.496" y="0">$9.87</tspan></text>
+    <text id="For_Mediums_Business_or_warehouse_who_need_to_manage_their_Inventories" data-name="For Mediums Business or warehouse who need to manage their Inventories" class="cls-1" transform="translate(729 6584.027)"><tspan x="17.858" y="26">For Mediums Business or warehouse </tspan><tspan x="11.278" y="58">who need to manage their Inventories</tspan></text>
+    <g id="Group_2161" data-name="Group 2161" transform="translate(630 -141)">
+      <text id="Drag_Drop_Builder" data-name="Drag &amp; Drop Builder" class="cls-1" transform="translate(199 7079)"><tspan x="0" y="0">Drag &amp; Drop Builder</tspan></text>
+      <text id="_1_000s_of_Templates_Ready" data-name="1,000s of Templates Ready" class="cls-1" transform="translate(199 7140)"><tspan x="0" y="0">1,000s of Templates Ready</tspan></text>
+      <text id="Blog_Tools" data-name="Blog Tools" class="cls-1" transform="translate(199 7202)"><tspan x="0" y="0">Blog Tools</tspan></text>
+      <text id="eCommerce_Stores" data-name="eCommerce Stores" class="cls-1" transform="translate(199 7263)"><tspan x="0" y="0">eCommerce Stores</tspan></text>
+      <text id="_30_Webmaster_Tools" data-name="30+ Webmaster Tools" class="cls-1" transform="translate(199 7325)"><tspan x="0" y="0">30+ Webmaster Tools</tspan></text>
+      <path id="ok" d="M22.259,2.975,8.706,16.527l-4.4-4.4L0,16.442l4.4,4.4,4.339,4.339,4.311-4.31L26.6,7.313Z" transform="translate(160 7055.615)"/>
+      <path id="ok-2" data-name="ok" d="M22.259,2.975,8.706,16.527l-4.4-4.4L0,16.442l4.4,4.4,4.339,4.339,4.311-4.31L26.6,7.313Z" transform="translate(160 7117.615)"/>
+      <path id="ok-3" data-name="ok" d="M22.259,2.975,8.706,16.527l-4.4-4.4L0,16.442l4.4,4.4,4.339,4.339,4.311-4.31L26.6,7.313Z" transform="translate(160 7179.615)"/>
+      <path id="ok-4" data-name="ok" d="M22.259,2.975,8.706,16.527l-4.4-4.4L0,16.442l4.4,4.4,4.339,4.339,4.311-4.31L26.6,7.313Z" transform="translate(160 7241.615)"/>
+      <path id="ok-5" data-name="ok" d="M22.259,2.975,8.706,16.527l-4.4-4.4L0,16.442l4.4,4.4,4.339,4.339,4.311-4.31L26.6,7.313Z" transform="translate(160 7303.615)"/>
+    </g>
+  </g>
+</svg>

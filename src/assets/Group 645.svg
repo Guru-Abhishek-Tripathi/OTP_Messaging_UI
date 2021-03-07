@@ -1,0 +1,23 @@
+<svg id="Group_645" data-name="Group 645" xmlns="http://www.w3.org/2000/svg" width="780" height="210" viewBox="0 0 780 210">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        fill: #2b2716;
+        letter-spacing: 0.05em;
+      }
+
+      .cls-1 {
+        font-size: 28px;
+        font-family: ProximaNova-Regular, Proxima Nova;
+      }
+
+      .cls-2 {
+        font-size: 50px;
+        font-family: Oxygen-Bold, Oxygen;
+        font-weight: 700;
+      }
+    </style>
+  </defs>
+  <text id="Have_multiple_warehouses_offices_or_retail_stores_No_problem._Easily_track_where_all_your_inventory_is_by_organizing_everything_into_locations_and_zones." data-name="Have multiple warehouses, offices, or retail stores? No problem. Easily track where all your inventory is by organizing everything into locations and zones." class="cls-1" transform="translate(0 98)"><tspan x="0" y="26">Have multiple warehouses, offices, or retail stores? No </tspan><tspan x="0" y="58">problem. Easily track where all your inventory is by </tspan><tspan x="0" y="90">organizing everything into locations and zones.</tspan></text>
+  <text id="Locations_Zones" data-name="Locations &amp; Zones" class="cls-2" transform="translate(0 62)"><tspan x="0" y="0">Locations &amp; Zones</tspan></text>
+</svg>

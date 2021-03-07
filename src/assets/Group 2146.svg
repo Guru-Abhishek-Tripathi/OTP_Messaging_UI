@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="336" height="108" viewBox="0 0 336 108">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #001164;
+      }
+
+      .cls-2 {
+        fill: #fff;
+        font-size: 20px;
+        font-family: Montserrat-Bold, Montserrat;
+        font-weight: 700;
+        letter-spacing: 0.038em;
+      }
+
+      .cls-3 {
+        filter: url(#Rectangle_11);
+      }
+    </style>
+    <filter id="Rectangle_11" x="0" y="0" width="336" height="108" filterUnits="userSpaceOnUse">
+      <feOffset dx="2" dy="2" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="5" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_2146" data-name="Group 2146" transform="translate(-36 -925)">
+    <g class="cls-3" transform="matrix(1, 0, 0, 1, 36, 925)">
+      <rect id="Rectangle_11-2" data-name="Rectangle 11" class="cls-1" width="306" height="78" rx="8" transform="translate(13 13)"/>
+    </g>
+    <text id="Learn_More" data-name="Learn More" class="cls-2" transform="translate(128 984)"><tspan x="0" y="0">LEARN MORE</tspan></text>
+  </g>
+</svg>

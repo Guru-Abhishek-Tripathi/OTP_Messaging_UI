@@ -1,0 +1,23 @@
+<svg id="Group_643" data-name="Group 643" xmlns="http://www.w3.org/2000/svg" width="781" height="227" viewBox="0 0 781 227">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        fill: #2b2716;
+        letter-spacing: 0.05em;
+      }
+
+      .cls-1 {
+        font-size: 28px;
+        font-family: ProximaNova-Regular, Proxima Nova;
+      }
+
+      .cls-2 {
+        font-size: 50px;
+        font-family: Oxygen-Bold, Oxygen;
+        font-weight: 700;
+      }
+    </style>
+  </defs>
+  <text id="Scan_inventory_into_your_orders_generate_barcodes_for_your_documents_search_for_inventory_or_documents_by_scanning_barcodes." data-name="Scan inventory into your orders, generate barcodes for your documents, search for inventory or documents by scanning barcodes." class="cls-1" transform="translate(0 98)"><tspan x="0" y="26">Scan inventory into your orders, generate barcodes for </tspan><tspan x="0" y="58">your documents, search for inventory or documents by </tspan><tspan x="0" y="90">scanning barcodes.</tspan></text>
+  <text id="Barcode_Scanning" data-name="Barcode Scanning" class="cls-2" transform="translate(0 62)"><tspan x="0" y="0">Barcode Scanning</tspan></text>
+</svg>

@@ -1,0 +1,23 @@
+<svg id="Group_644" data-name="Group 644" xmlns="http://www.w3.org/2000/svg" width="780" height="224" viewBox="0 0 780 224">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        fill: #2b2716;
+        letter-spacing: 0.05em;
+      }
+
+      .cls-1 {
+        font-size: 50px;
+        font-family: Oxygen-Bold, Oxygen;
+        font-weight: 700;
+      }
+
+      .cls-2 {
+        font-size: 28px;
+        font-family: ProximaNova-Regular, Proxima Nova;
+      }
+    </style>
+  </defs>
+  <text id="Inventory_Management" data-name="Inventory Management" class="cls-1" transform="translate(0 62)"><tspan x="0" y="0">Inventory Management</tspan></text>
+  <text id="Manage_your_inventory_and_check_stock_levels_in_real-time._Receive_low_inventory_notifications_and_generate_purchase_orders_to_replenish_your_stock." data-name="Manage your inventory and check stock levels in real-time. Receive low inventory notifications and generate purchase orders to replenish your stock." class="cls-2" transform="translate(0 98)"><tspan x="0" y="26">Manage your inventory and check stock levels in real-</tspan><tspan x="0" y="58">time. Receive low inventory notifications and generate </tspan><tspan x="0" y="90">purchase orders to replenish your stock.</tspan></text>
+</svg>

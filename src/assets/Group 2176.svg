@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="780" height="222" viewBox="0 0 780 222">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        fill: #2b2716;
+        letter-spacing: 0.05em;
+      }
+
+      .cls-1 {
+        font-size: 28px;
+        font-family: ProximaNova-Regular, Proxima Nova;
+      }
+
+      .cls-2 {
+        font-size: 50px;
+        font-family: Oxygen-Bold, Oxygen;
+        font-weight: 700;
+      }
+    </style>
+  </defs>
+  <g id="Group_2176" data-name="Group 2176" transform="translate(-92 -5563.027)">
+    <text id="Custom_user_permissions_allows_you_to_toggle_what_each_of_your_team_members_can_see_and_do._Hide_things_make_things_read-only_or_hide_everyone_else_s_stuff." data-name="Custom user permissions allows you to toggle what each of your team members can see and do. Hide things, make things read-only, or hide everyone else&apos;s stuff." class="cls-1" transform="translate(92 5661.027)"><tspan x="0" y="26">Custom user permissions allows you to toggle what each </tspan><tspan x="0" y="58">of your team members can see and do. Hide things, </tspan><tspan x="0" y="90">make things read-only, or hide everyone else&apos;s stuff.</tspan></text>
+    <text id="User_Permissions" data-name="User Permissions" class="cls-2" transform="translate(92 5625.027)"><tspan x="0" y="0">User Permissions</tspan></text>
+  </g>
+</svg>

@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="780" height="234" viewBox="0 0 780 234">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        fill: #2b2716;
+        letter-spacing: 0.05em;
+      }
+
+      .cls-1 {
+        font-size: 28px;
+        font-family: ProximaNova-Regular, Proxima Nova;
+      }
+
+      .cls-2 {
+        font-size: 50px;
+        font-family: Oxygen-Bold, Oxygen;
+        font-weight: 700;
+      }
+    </style>
+  </defs>
+  <g id="Group_2172" data-name="Group 2172" transform="translate(-92 -3482.055)">
+    <text id="With_built-in_CRM_features_you_can_keep_track_of_all_your_customer_accounts_with_ease._Add_multiple_contacts_private_notes_and_review_their_purchase_history." data-name="With built-in CRM features you can keep track of all your customer accounts with ease. Add multiple contacts, private notes, and review their purchase history." class="cls-1" transform="translate(92 3580.055)"><tspan x="0" y="26">With built-in CRM features you can keep track of all your </tspan><tspan x="0" y="58">customer accounts with ease. Add multiple contacts, </tspan><tspan x="0" y="90">private notes, and review their purchase history.</tspan></text>
+    <text id="Customer_Account" data-name="Customer Account" class="cls-2" transform="translate(92 3544.055)"><tspan x="0" y="0">Customer Account</tspan></text>
+  </g>
+</svg>

@@ -1,0 +1,43 @@
+<div class="row">
+    <div class="col-md-1"></div>
+    <div class="col-md-4">
+        <h3 class="text-center" style="border: 2px solid rgb(17, 0, 255); border-radius: 10px; background-color: rgb(90,133,214);">Contact Details</h3>
+      
+        <table class="table">
+            <thead class="thead-light">
+                <tr>
+                    <th>Name</th>
+                    <th>Number</th>
+                    <th>Click to Send</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr *ngFor = "let item of listOfContacts">
+                    <th >{{item.Name}}</th>
+                    <th >{{item.Number}}</th>
+                    <th><button class="btn-success" style="border-radius: 7px;" (click)="loadDetails(item.Name, item.Number)">Click!</button></th>
+                </tr>
+            </tbody>
+        </table>
+      
+    </div>
+    <div class="col-md-2">
+
+    </div>
+    <div class="col-md-4" *ngIf="flag">
+        <h3 class="text-center" style="border: 2px solid rgb(17, 0, 255); border-radius: 10px; background-color: rgb(90,133,214);">Compose New Message</h3>
+        <form class="text-center" style="border-radius: 10px; border: 2px solid rgb(17, 0, 255); margin-left: 10px; margin-right: 10px;">
+            <div class="form-group">
+                <label>Text:</label>
+                <div>
+                    <textarea name="textbody" id="tb" cols="40" [(ngModel)] = "bodystr" rows="5"></textarea>
+                </div>
+            </div>
+            <div class="form-group">
+                <button class="btn-success" type="submit" (click)="sendSMS()" style="border-radius: 6px;">Send Message</button>
+                <p *ngIf = "flag2 === 1" style="color: seagreen;">Sent!</p>
+                <p *ngIf = "flag2 === 0" style="color: red;">Failed!</p>
+            </div>
+        </form>
+    </div>
+</div>
